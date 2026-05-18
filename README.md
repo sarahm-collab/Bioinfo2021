@@ -4,3 +4,4 @@ Example repository for the course "Bioinformatik für Tier- und Pflanzenwissensc
 Adding some example text
 
 Test
+Another Test
